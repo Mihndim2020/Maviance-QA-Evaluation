@@ -1,5 +1,5 @@
 # Maviance-QA-Evaluation
-These are tests automations with Cypress as part of Senior QA evaluation at Maviance PLC. The directory named Task-1-3-4 contains solutions for Task 1, 3 and 4.
+These are test automation with Cypress as part of the Senior QA evaluation at Maviance PLC. The directory named Task-1-3-4 contains solutions for Task 1, 3, and 4.
 
 ## Built With
 - Cypress 
@@ -15,11 +15,12 @@ These are tests automations with Cypress as part of Senior QA evaluation at Mavi
 1. `git clone https://github.com/Mihndim2020/Maviance-QA-Evaluation.git`
 2. `cd Maviance-QA-Evaluation`
 3. `npm i` to install dependencies
-4. `npx cypress open --browser chrome` to run the tests using the chrome browser
+4. `npx cypress open --browser chrome` to run the tests using the Chrome browser
+5. When the browser loads, select e2e and the test type and then mavianceTestAutomation.cy.js to run the test. 
 
 ## Author
 
-👤 **whid-bb**
+👤 **Mih Julius Ndim**
 
 - [LinkedIn](https://www.linkedin.com/in/bartosz-ka%C5%BAmierczak-46a810235/)
 
