@@ -12,10 +12,10 @@ These are tests automations with Cypress as part of Senior QA evaluation at Mavi
 
 ### To build run in your terminal:
 
-1. `git clone git@github.com:whid-bb/math-magicians.git`
-2. `cd math-magicians`
-3. `npm i`
-4. `npm start`
+1. `git clone https://github.com/Mihndim2020/Maviance-QA-Evaluation.git`
+2. `cd Maviance-QA-Evaluation`
+3. `npm i` to install dependencies
+4. `npx cypress open --browser chrome` to run the tests using the chrome browser
 
 ## Author
 
