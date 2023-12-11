@@ -23,8 +23,7 @@ These are test automation with Cypress as part of the Senior QA evaluation at Ma
 👤 **Mih Julius Ndim**
 
 - GitHub: [@mihndim2020](https://github.com/mihndim2020)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mihndim/)
 
 ## 🤝 Contributing
 
