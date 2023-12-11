@@ -1,5 +1,5 @@
 # Maviance-QA-Evaluation
-These are tests automations with Cypress as part of Senior QA evaluation at Maviance PLC. 
+These are tests automations with Cypress as part of Senior QA evaluation at Maviance PLC. The directory named Task-1-3-4 contains solutions for Task 1, 3 and 4.
 
 ## Built With
 - Cypress 
@@ -9,8 +9,6 @@ These are tests automations with Cypress as part of Senior QA evaluation at Mavi
 ### Prerequisites
 
 - `nodejs` and `npm` preferably the LTS version
-
-You can install Node and NPM at https://nodejs.org and follow the instructions provided by the installer.
 
 ### To build run in your terminal:
 
