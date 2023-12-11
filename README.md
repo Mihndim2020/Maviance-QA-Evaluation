@@ -12,6 +12,8 @@ These are test automation with Cypress as part of the Senior QA evaluation at Ma
 
 ### To build and run the tests in your terminal:
 
+Follow the steps below. 
+
 1. `git clone https://github.com/Mihndim2020/Maviance-QA-Evaluation.git`
 2. `cd Maviance-QA-Evaluation`
 3. `npm i` to install dependencies
