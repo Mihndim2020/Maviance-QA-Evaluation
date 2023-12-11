@@ -10,7 +10,7 @@ These are test automation with Cypress as part of the Senior QA evaluation at Ma
 
 - `nodejs` and `npm` preferably the LTS version
 
-### To build run in your terminal:
+### To build and run the tests in your terminal:
 
 1. `git clone https://github.com/Mihndim2020/Maviance-QA-Evaluation.git`
 2. `cd Maviance-QA-Evaluation`
